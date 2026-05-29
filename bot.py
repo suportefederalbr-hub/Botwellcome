@@ -24,8 +24,8 @@ intents.members = True
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 BOT_TOKEN = os.getenv('BOT_TOKEN')
-WELCOME_CHANNEL_NAME = '┌membros┐'
-RULES_CHANNEL_NAME = '┌regras┐'
+WELCOME_CHANNEL_NAME = '┌𝕸𝖊𝖒𝖇𝖗𝖔┐'
+RULES_CHANNEL_NAME = '┌𝕽𝖊𝖌𝖗𝖆𝖘┐'
 
 # ID do teu servidor
 SEU_SERVER_ID = 1508984653355159813
